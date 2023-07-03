@@ -1,4 +1,4 @@
-# repetition and test preperation :computer:
+# 💻 repetition and test preperation 
 
 :blue_square:1.display data
 
